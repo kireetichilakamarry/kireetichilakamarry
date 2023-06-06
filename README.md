@@ -1,6 +1,6 @@
 # Hi there 👋 My name is Kireeti Chilakamarry
 
-Computer Science & Statistics @ UC Berkeley
+## Computer Science & Statistics @ UC Berkeley
 
 :earth_americas: Based in Silicon Valley, CA
     
