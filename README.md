@@ -1,4 +1,12 @@
-### Hi there 👋 My name is Kireeti Chilakamarry, and I'm a highly motivated and ambitious student at UC Berkeley pursuing a dual degree in Computer Science and Statistics. I intend on applying my education and skills to make meaningful contributions to the field of financial technology. In my free time, I enjoy working out, playing guitar, and going on bike rides with my close friends.
+### Hi there 👋 My name is Kireeti Chilakamarry
+
+    Computer Science & Statistics @ UC Berkeley
+    
+    I aspire to use my computer science and financial acumen in order to make a lasting impact on the financial technology sector. 
+    
+    Feel free to reach out to my email: kchilaka@berkeley.edu
+    
+    Or you can contact me on [Instagram]([url](https://www.instagram.com/kireeti.chy/)) or [Linkedin]([url](https://www.linkedin.com/in/kchilaka/)).
 
 <!--
 **kireetichilakamarry/kireetichilakamarry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
