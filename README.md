@@ -6,7 +6,7 @@
     
 :dollar:  I aspire to use my computer science and financial acumen in order to make a lasting impact on the financial technology sector. 
     
-:email:  Feel free to reach out to my email: kchilaka@berkeley.edu or on [Instagram](https://www.instagram.com/kireeti.chy/) or [LinkedIn](https://www.linkedin.com/in/kchilaka/).
+:email:  Feel free to reach out to me via email (kchilaka@berkeley.edu) or on [Instagram](https://www.instagram.com/kireeti.chy/) or [LinkedIn](https://www.linkedin.com/in/kchilaka/).
 
 <!--
 **kireetichilakamarry/kireetichilakamarry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
