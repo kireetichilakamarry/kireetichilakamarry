@@ -8,7 +8,7 @@
     
 :email:  Feel free to reach out to my email: kchilaka@berkeley.edu
     
-Or you can contact me on [Instagram]((https://www.instagram.com/kireeti.chy/){:target="_blank"}) or [LinkedIn]((https://www.linkedin.com/in/kchilaka/){:target="_blank"}).
+Or you can contact me on [Instagram](https://www.instagram.com/kireeti.chy/){:target="_blank"} or [LinkedIn](https://www.linkedin.com/in/kchilaka/){:target="_blank"}.
 
 <!--
 **kireetichilakamarry/kireetichilakamarry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
