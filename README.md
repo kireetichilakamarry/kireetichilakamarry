@@ -1,10 +1,10 @@
 # Hi there 👋 My name is Kireeti Chilakamarry
 
-## CS + Stats @ UC Berkeley
+## Software Engineer @ Walmart Global Tech | Computer Science & Statistics Alum @ UC Berkeley
 
 :earth_americas:  Based in Silicon Valley, CA
     
-:dollar:  I aspire to use my computer science and financial acumen in order to make a lasting impact on the financial technology sector. 
+
     
 :email:  Feel free to reach out to me via email (kchilaka@berkeley.edu), [Instagram](https://www.instagram.com/kireeti.chy/), or [LinkedIn](https://www.linkedin.com/in/kchilaka/).
 
