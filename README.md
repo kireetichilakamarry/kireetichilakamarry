@@ -25,6 +25,7 @@ OneOps Team
 * EECS 106A - Introduction to Robotics
 * STAT 134 - Concepts of Probability
 * STAT 135 - Concepts of Statistics
+* STAT 153 - Time Series
 * STAT 155 - Game Theory
 
 ### Activities
