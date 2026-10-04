@@ -1,5 +1,7 @@
 # Kireeti Chilakamarry
 
+My name is Kireeti, and I'm a recent graduate of UC Berkeley with a dual degree in Computer Science and Statistics. I currently work as a Software Engineer at Walmart Global Tech.
+
 # Experience
 
 ## Walmart Global Tech 
