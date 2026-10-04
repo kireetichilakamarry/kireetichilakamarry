@@ -4,10 +4,10 @@
 
 ## Walmart Global Tech 
 ### Software Engineer
-(March 2026 - )
+*March 2026 - *
 
 ### Software Engineering Intern
-(June - August 2025) 
+*June - August 2025*
 
 # Education
 
