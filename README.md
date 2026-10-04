@@ -5,11 +5,11 @@
 ## Walmart Global Tech 
 ### Software Engineer
 *March 2026 -*
-* Observability/Monitoring for the WCNP-ML Team
+Observability/Monitoring for the WCNP-ML Team
 
 ### Software Engineering Intern
 *June - August 2025*
-* OneOps Team
+OneOps Team
 
 # Education
 
