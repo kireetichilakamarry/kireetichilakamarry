@@ -1,13 +1,33 @@
-# Hi there 👋 My name is Kireeti Chilakamarry
+# Kireeti Chilakamarry
 
-## SWE @ Walmart Global Tech
+# Experience
 
-:earth_americas:  Based in the Bay Area
+## Walmart Global Tech 
+### Software Engineer
+(March 2026 - )
 
-💵 I'm a recent graduate from UC Berkeley with a double major in Computer Science and Statistics.
+### Software Engineering Intern
+(June - August 2025) 
 
-    
-:email:  Feel free to reach out to me via email (kchilaka@berkeley.edu), [Instagram](https://www.instagram.com/kireeti.chy/), or [LinkedIn](https://www.linkedin.com/in/kchilaka/).
+# Education
+
+## University of California, Berkeley
+*Computer Science & Statistics B.A.* (August 2022 - December 2025)
+### Notable Coursework
+* CS 162 - Operating Systems & Systems Programming
+* CS 170 - Efficient Algorithms & Intractable Problems
+* CS 189 - Introduction to Machine Learning
+* EE 123 - Digital Signal Processing
+* EECS 106A - Introduction to Robotics
+* STAT 134 - Concepts of Probability
+* STAT 135 - Concepts of Statistics
+* STAT 155 - Game Theory
+
+### Activities
+Intramural Basketball, Berkeley Residential Life
+
+# Additional Info
+Email (ckireeti04@gmail.com, kchilaka@berkeley.edu), [Instagram](https://www.instagram.com/kireeti.chy/), [LinkedIn](https://www.linkedin.com/in/kchilaka/).
 
 <!--
 **kireetichilakamarry/kireetichilakamarry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
